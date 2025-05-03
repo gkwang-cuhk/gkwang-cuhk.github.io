@@ -24,12 +24,11 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper GRAD is accepted by [**Information Fusion**](https://www.sciencedirect.com/journal/information-fusion) (IF: 14.8).
 - *2025.02*: &nbsp;🎉🎉 Our work "PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**IPCAI 2025**](https://sites.google.com/view/ipcai2025)!
 - *2025.01*: &nbsp;🎉🎉 Our work "ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**ICRA 2025**](https://2025.ieee-icra.org/)!
 - *2025.01*: &nbsp;🎉🎉 One paper TSUBF-Net is published by [**Neural Computing and Applications**](https://link.springer.com/article/10.1007/s00521-024-10824-9) (IF: 4.8).
-- *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is published by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.7).
-- *2024.05*: &nbsp;🎉🎉 Our poster on surgical instrument tracking receives the Best Poster Award in [**ICRA 2024 C4SR+ Workshop**](https://sites.google.com/view/icra24-c4sr)!
-- *2024.03*: &nbsp;🎉🎉 I receive the offer from CUHK Graduate School for CUHK-HUAWEI Joint PhD Program!
+- *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is published by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.8).
 
 
 <span class='anchor' id='publications'></span>
@@ -38,7 +37,11 @@ My research interests include computer vision and its applications in medical im
 † indicates equal contribution; * represents the corresponding authors.
 - **Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**<br>
   Long Bai†, **Guankun Wang†**, Mobarakol Islam†, Lalithkumar Seenivasan, An Wang, Hongliang Ren*<br>
-  Information Fusion (IF), 2024. (IF: 14.7)
+  Information Fusion (IF), 2024. (IF: 14.8)
+
+- **Multimodal Graph Representation Learning for Robust Surgical Workflow Recognition with Adversarial Feature Disentanglement**<br>
+  Long Bai†, Boyi Ma†, Ruohan Wang, **Guankun Wang**, Beilei Cui, Zhongliang Jiang, Mobarakol Islam, Zhe Min, 	Jiewen Lai, Nassir Navab, Hongliang Ren*<br>
+  Information Fusion (IF), 2025. (IF: 14.8)
 
 - **ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection**<br>
   Mengya Xu†, Wenjin Mo†, **Guankun Wang†**, Huxin Gao, An Wang, Long Bai, Chaoyang Lyu, Xiaoxiao Yang, Zhen Li, Hongliang Ren*<br>
