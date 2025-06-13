@@ -24,6 +24,7 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper [**EndoARSS**](https://www.arxiv.org/abs/2506.06830) is accepted by [**Advanced Intelligent Systems**](https://advanced.onlinelibrary.wiley.com/journal/26404567) (IF: 6.8).
 - *2025.05*: &nbsp;🎉🎉 One paper GRAD is accepted by [**Information Fusion**](https://www.sciencedirect.com/journal/information-fusion) (IF: 14.8).
 - *2025.02*: &nbsp;🎉🎉 Our work "PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**IPCAI 2025**](https://sites.google.com/view/ipcai2025)!
 - *2025.01*: &nbsp;🎉🎉 Our work "ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**ICRA 2025**](https://2025.ieee-icra.org/)!
