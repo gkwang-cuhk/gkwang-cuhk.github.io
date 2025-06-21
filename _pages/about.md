@@ -36,13 +36,21 @@ My research interests include computer vision and its applications in medical im
 # 📝 Selected Publications [Find full list at Google Scholar]
 
 † indicates equal contribution; * represents the corresponding authors.
-- **Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**<br>
-  Long Bai†, **Guankun Wang†**, Mobarakol Islam†, Lalithkumar Seenivasan, An Wang, Hongliang Ren*<br>
-  Information Fusion (IF), 2024. (IF: 14.8)
-
 - **Multimodal Graph Representation Learning for Robust Surgical Workflow Recognition with Adversarial Feature Disentanglement**<br>
   Long Bai†, Boyi Ma†, Ruohan Wang, **Guankun Wang**, Beilei Cui, Zhongliang Jiang, Mobarakol Islam, Zhe Min, 	Jiewen Lai, Nassir Navab, Hongliang Ren*<br>
-  Information Fusion (IF), 2025. (IF: 14.8)
+  Information Fusion (IF), 2025. (IF: 15.5)
+
+- **EndoARSS: Adapting Spatially-Aware Foundation Model for Efficient Activity Recognition and Semantic Segmentation in Endoscopic Surgery**<br>
+  **Guankun Wang†**, Rui Tang†, Mengya Xu†, Long Bai, Huxin Gao, Hongliang Ren*<br>
+   Advanced Intelligent Systems (AIS), 2025. (IF: 6.1)
+
+- **STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization**<br>
+  Qiwei Liang, Rulin Zhou, Yijing Zhou, **Guankun Wang**, Peng Peng, Xiaopin Zhong*<br>
+   Expert Systems with Applications (ESAP), 2025. (IF: 7.5)
+  
+- **Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**<br>
+  Long Bai†, **Guankun Wang†**, Mobarakol Islam†, Lalithkumar Seenivasan, An Wang, Hongliang Ren*<br>
+  Information Fusion (IF), 2024. (IF: 15.5)
 
 - **ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection**<br>
   Mengya Xu†, Wenjin Mo†, **Guankun Wang†**, Huxin Gao, An Wang, Long Bai, Chaoyang Lyu, Xiaoxiao Yang, Zhen Li, Hongliang Ren*<br>
@@ -66,20 +74,8 @@ My research interests include computer vision and its applications in medical im
 
 - **Rethinking Exemplars for Continual Semantic Segmentation in Endoscopy Scenes: Entropy-based Mini-Batch Pseudo-Replay**<br>
   **Guankun Wang†**, Long Bai†, Yanan Wu, Tong Chen, Hongliang Ren*<br>
-  Computers in Biology and Medicine (CBM), 2023.
+  Computers in Biology and Medicine (CBM), 2023.  (IF: 6.3)
 
-- **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**<br>
-  **Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, and Hongliang Ren<br>
-  Medical & Biological Engineering & Computing (MBEC), 2023.
-
-- **Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**<br>
-  Xiaopin Zhong, **Guankun Wang**, Weixiang Liu*, Zongze Wu, Yuanlong Deng<br>
-  Multimedia Tools and Applications (MTAP), Accepted, 2023.
-
-- **An Improved FairMOT Method for Crowd Tracking and Counting in Subway Passages**<br>
-  **Guankun Wang**, Yongze Yang, Xiaopin Zhong*, Yang Yang<br>
-  IEEE International Conference on Intelligent Transportation Engineering (ICITE 2021).<br>
-  **Best Student Paper Award**
 
 <span class='anchor' id='awards'></span>
 # 🎖 Selected Awards
