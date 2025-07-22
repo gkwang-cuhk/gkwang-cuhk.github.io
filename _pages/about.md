@@ -24,12 +24,15 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
+- *2025.07*: &nbsp;🎉🎉 One paper [**Geo-RepNet**](https://arxiv.org/abs/2507.09294) is accepted by [**ICIA 2025**](https://www.icia2025.org/index.html).
+- *2025.06*: &nbsp;🎉🎉 One paper [**SurgTPGS**](https://arxiv.org/abs/2506.23309) is accepted by [**MICCAI 2025**](https://conferences.miccai.org/2025/en/).
 - *2025.06*: &nbsp;🎉🎉 One paper [**EndoARSS**](https://www.arxiv.org/abs/2506.06830) is accepted by [**Advanced Intelligent Systems**](https://advanced.onlinelibrary.wiley.com/journal/26404567) (IF: 6.8).
+- *2025.06*: &nbsp;🎉🎉 Our work "PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection" is published by [**International Journal of Computer Assisted Radiology and Surgery**](https://link.springer.com/article/10.1007/s11548-025-03437-7)!
 - *2025.05*: &nbsp;🎉🎉 One paper GRAD is accepted by [**Information Fusion**](https://www.sciencedirect.com/journal/information-fusion) (IF: 14.8).
-- *2025.02*: &nbsp;🎉🎉 Our work "PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**IPCAI 2025**](https://sites.google.com/view/ipcai2025)!
 - *2025.01*: &nbsp;🎉🎉 Our work "ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**ICRA 2025**](https://2025.ieee-icra.org/)!
-- *2025.01*: &nbsp;🎉🎉 One paper TSUBF-Net is published by [**Neural Computing and Applications**](https://link.springer.com/article/10.1007/s00521-024-10824-9) (IF: 4.8).
-- *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is published by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.8).
+
+
 
 
 <span class='anchor' id='publications'></span>
@@ -79,6 +82,8 @@ My research interests include computer vision and its applications in medical im
 
 <span class='anchor' id='awards'></span>
 # 🎖 Selected Awards
+- *2025.06* **The IHU Strasbourg and NDI Bench to Bedside Award: Honorable Mention**
+- *2025.05* **MRC Symposium Best Application Award**
 - *2024.05* **Best Poster Award of ICRA 2024 C4SR+ Workshop**
 - *2023.11* **HAMEN FAN SCHOLARSHIP for M.Sc.in ELECTRONIC ENGINEERING**
 - *2023.11* **Dean's List 2022-2023**
@@ -100,4 +105,4 @@ My research interests include computer vision and its applications in medical im
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
 - Regular Journal and Conference Reviewer:
-  IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, MICCAI, ISBI, IPCAI
+  Scientific Reports, IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, MICCAI, ISBI, IPCAI
