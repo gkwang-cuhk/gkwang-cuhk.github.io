@@ -24,12 +24,13 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper [**CoPESD**](https://arxiv.org/pdf/2410.07540?) is accepted by [**ACM MM Dataset Track 2025**](https://acmmm2025.org/) .
-- *2025.08*: &nbsp;🎉🎉 One paper [**EndoVLA**](https://arxiv.org/pdf/2505.15206)is accepted by [**CoRL 2025**](https://www.corl.org/).
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
+- *2025.08*: &nbsp;🎉🎉 One paper [**EndoChat**](https://arxiv.org/pdf/2501.11347) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
+- *2025.08*: &nbsp;🎉🎉 One paper [**CoPESD**](https://arxiv.org/pdf/2410.07540?) is accepted by [**ACM MM Dataset Track 2025**](https://acmmm2025.org/).
+- *2025.08*: &nbsp;🎉🎉 One paper [**EndoVLA**](https://arxiv.org/pdf/2505.15206) is accepted by [**CoRL 2025**](https://www.corl.org/).
+- *2025.07*: &nbsp;🎉🎉 One paper [**SurgCSS**](https://discovery.ucl.ac.uk/id/eprint/10212110/1/Hoque_Rethinking%20data%20imbalance%20in%20class%20incremental%20surgical%20instrument%20segmentation.pdf) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
 - *2025.07*: &nbsp;🎉🎉 One paper [**Geo-RepNet**](https://arxiv.org/abs/2507.09294) is accepted by [**ICIA 2025**](https://www.icia2025.org/index.html).
 - *2025.06*: &nbsp;🎉🎉 One paper [**SurgTPGS**](https://arxiv.org/abs/2506.23309) is accepted by [**MICCAI 2025**](https://conferences.miccai.org/2025/en/).
-- *2025.06*: &nbsp;🎉🎉 One paper [**EndoARSS**](https://www.arxiv.org/abs/2506.06830) is accepted by [**Advanced Intelligent Systems**](https://advanced.onlinelibrary.wiley.com/journal/26404567) (IF: 6.8).
+- *2025.06*: &nbsp;🎉🎉 One paper [**EndoARSS**](https://www.arxiv.org/abs/2506.06830) is accepted by [**Advanced Intelligent Systems**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500288) (IF: 6.1).
 - *2025.06*: &nbsp;🎉🎉 Our work "PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection" is published by [**International Journal of Computer Assisted Radiology and Surgery**](https://link.springer.com/article/10.1007/s11548-025-03437-7)!
 - *2025.05*: &nbsp;🎉🎉 One paper GRAD is accepted by [**Information Fusion**](https://www.sciencedirect.com/journal/information-fusion) (IF: 14.8).
 - *2025.01*: &nbsp;🎉🎉 Our work "ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**ICRA 2025**](https://2025.ieee-icra.org/)!
