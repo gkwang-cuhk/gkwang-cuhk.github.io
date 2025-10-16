@@ -85,6 +85,7 @@ My research interests include computer vision and its applications in medical im
 
 <span class='anchor' id='awards'></span>
 # 🎖 Selected Awards
+- *2025.10* **MICCAI Young Scientist Award (5/3677)**
 - *2025.06* **The IHU Strasbourg and NDI Bench to Bedside Award: Honorable Mention**
 - *2025.05* **MRC Symposium Best Application Award**
 - *2024.05* **Best Poster Award of ICRA 2024 C4SR+ Workshop**
@@ -108,4 +109,6 @@ My research interests include computer vision and its applications in medical im
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
 - Regular Journal and Conference Reviewer:
-  Scientific Reports, IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, MICCAI, ISBI, IPCAI
+  Scientific Reports, IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, ICRA, MICCAI, ISBI, IPCAI
+- Conference Session Chair:
+  ICBIR 2025, ICIA 2025
