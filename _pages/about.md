@@ -24,6 +24,7 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Three paper is accepted by [**ICRA 2026**](https://2026.ieee-icra.org/).
 - *2025.08*: &nbsp;🎉🎉 One paper [**EndoChat**](https://arxiv.org/pdf/2501.11347) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
 - *2025.08*: &nbsp;🎉🎉 One paper [**CoPESD**](https://arxiv.org/pdf/2410.07540?) is accepted by [**ACM Multimedia 2025**](https://acmmm2025.org/).
 - *2025.08*: &nbsp;🎉🎉 One paper [**EndoVLA**](https://arxiv.org/pdf/2505.15206) is accepted by [**CoRL 2025**](https://www.corl.org/).
