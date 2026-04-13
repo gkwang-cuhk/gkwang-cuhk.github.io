@@ -131,6 +131,6 @@ My research interests include computer vision and its applications in medical im
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
 - Regular Journal and Conference Reviewer:
-  Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Scientific Reports, IJCARS, International Journal of Machine Learning and Cybernetics, Image and       Vision Computing, ICRA, MICCAI, ISBI, IPCAI
+  Medical Image Analysis, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Scientific Reports, Expert Systems With Applications, IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, ICRA, MICCAI, IROS, ISBI, IPCAI
 - Conference Session Chair:
   ACM MM 2025, ICBIR 2025, ICIA 2025
