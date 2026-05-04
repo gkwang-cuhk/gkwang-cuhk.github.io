@@ -24,6 +24,7 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper [**MedScope**](https://arxiv.org/abs/2602.13332) is accepted by [**ICML 2026**](https://icml.cc/).
 - *2026.01*: &nbsp;🎉🎉 Three paper is accepted by [**ICRA 2026**](https://2026.ieee-icra.org/).
 - *2025.08*: &nbsp;🎉🎉 One paper [**EndoChat**](https://arxiv.org/pdf/2501.11347) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
 - *2025.08*: &nbsp;🎉🎉 One paper [**CoPESD**](https://arxiv.org/pdf/2410.07540?) is accepted by [**ACM Multimedia 2025**](https://acmmm2025.org/).
@@ -34,8 +35,6 @@ My research interests include computer vision and its applications in medical im
 - *2025.06*: &nbsp;🎉🎉 One paper [**EndoARSS**](https://www.arxiv.org/abs/2506.06830) is accepted by [**Advanced Intelligent Systems**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500288) (IF: 6.1).
 - *2025.06*: &nbsp;🎉🎉 Our work "PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection" is published by [**International Journal of Computer Assisted Radiology and Surgery**](https://link.springer.com/article/10.1007/s11548-025-03437-7)!
 - *2025.05*: &nbsp;🎉🎉 One paper GRAD is accepted by [**Information Fusion**](https://www.sciencedirect.com/journal/information-fusion) (IF: 15.5).
-- *2025.01*: &nbsp;🎉🎉 Our work "ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**ICRA 2025**](https://2025.ieee-icra.org/)!
-
 
 
 
