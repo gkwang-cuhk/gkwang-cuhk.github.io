@@ -123,6 +123,12 @@ My research interests include computer vision and its applications in medical im
 - *2018.09 - 2022.07*, B.Eng., Automation, Shenzhen University, Shenzhen, China
 
 <span class='anchor' id='work'></span>
+# 💫 Supervision & Mentees
+- Mingwu Su   M.Sc.@CUHK 2024-2025 -> Ph.D. Student, CUHK
+- Rui Tang   M.Phil.@HKUSZ(GZ) 2024-2026 -> Ph.D. Student, HKU
+- Rulin Zhou  Intern@CUHK 2024-2025 -> Ph.D. Student, CUHK
+- Junyi Wang	Intern@CUHK 2024-2025 -> Research Assistant, HKU
+<span class='anchor' id='work'></span>
 # 💻 Work Experience
 - *2023.09 - 2024.07*, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
 - *2021.07 - 2021.12*, [Application Engineer Intern] Research and Development Department, DAS Intelligence, Shenzhen, China.
@@ -130,6 +136,6 @@ My research interests include computer vision and its applications in medical im
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
 - Regular Journal and Conference Reviewer:
-  Medical Image Analysis, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Scientific Reports, Expert Systems With Applications, IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, ICRA, MICCAI, IROS, ISBI, IPCAI
+  Medical Image Analysis, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Neurocomputing, Scientific Reports, Expert Systems With Applications, IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, ICRA, MICCAI, IROS, ISBI, IPCAI
 - Conference Session Chair:
   ACM MM 2025, ICBIR 2025, ICIA 2025
