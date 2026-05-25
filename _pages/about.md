@@ -114,6 +114,7 @@ My research interests include computer vision and its applications in medical im
 - *2023.07* **Best Poster Award at ICRA 2023 Workshop**
 - *2022.10* **Department Admission Scholarship**
 - *2022.07* **Outstanding Graduate Student**
+- *2021.10* **Best Student Papers Awards of ICITE 2021**
 
 <span class='anchor' id='work'></span>
 # 📖 Educations
