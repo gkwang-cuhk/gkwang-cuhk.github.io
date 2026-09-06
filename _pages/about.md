@@ -128,6 +128,7 @@ My research interests include computer vision and its applications in medical im
 - Rui Tang   M.Phil.@HKUSZ(GZ) 2024-2026 -> Ph.D. Student, HKU
 - Rulin Zhou  Intern@CUHK 2024-2025 -> Ph.D. Student, CUHK
 - Junyi Wang	Intern@CUHK 2024-2025 -> Research Assistant, HKU
+- Wenjin Mo Intern@CUHK 2024-2025 -> Master Student, Yale University
 <span class='anchor' id='work'></span>
 # 💻 Work Experience
 - *2023.09 - 2024.07*, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
