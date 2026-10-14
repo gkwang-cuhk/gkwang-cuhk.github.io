@@ -24,16 +24,16 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 One paper [**SurgTPGS++**](https://www.sciencedirect.com/science/article/pii/S1361841526003877) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis).
+- *2026.06*: &nbsp;🎉🎉 One paper [**Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation**](https://arxiv.org/abs/2608.09125) is accepted by [**IROS 2026**](https://2026.ieee-iros.org/).
 - *2026.05*: &nbsp;🎉🎉 One paper [**How can reasoning capability empower the AI copilot robot in endoscopic surgery**](https://arxiv.org/abs/2605.22322) is accepted by [**npj digital medicine**](https://www.nature.com/npjdigitalmed/).
 - *2026.05*: &nbsp;🎉🎉 One paper [**MedScope**](https://arxiv.org/abs/2602.13332) is accepted by [**ICML 2026**](https://icml.cc/).
 - *2026.01*: &nbsp;🎉🎉 Three paper is accepted by [**ICRA 2026**](https://2026.ieee-icra.org/).
-- *2025.08*: &nbsp;🎉🎉 One paper [**EndoChat**](https://arxiv.org/pdf/2501.11347) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
+- *2025.08*: &nbsp;🎉🎉 One paper [**EndoChat**](https://arxiv.org/pdf/2501.11347) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis).
 - *2025.08*: &nbsp;🎉🎉 One paper [**CoPESD**](https://arxiv.org/pdf/2410.07540?) is accepted by [**ACM Multimedia 2025**](https://acmmm2025.org/).
 - *2025.08*: &nbsp;🎉🎉 One paper [**EndoVLA**](https://arxiv.org/pdf/2505.15206) is accepted by [**CoRL 2025**](https://www.corl.org/).
-- *2025.07*: &nbsp;🎉🎉 One paper [**SurgCSS**](https://discovery.ucl.ac.uk/id/eprint/10212110/1/Hoque_Rethinking%20data%20imbalance%20in%20class%20incremental%20surgical%20instrument%20segmentation.pdf) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis) (IF: 11.8).
-- *2025.07*: &nbsp;🎉🎉 One paper [**Geo-RepNet**](https://arxiv.org/abs/2507.09294) is accepted by [**ICIA 2025**](https://www.icia2025.org/index.html).
-- *2025.06*: &nbsp;🎉🎉 One paper [**SurgTPGS**](https://arxiv.org/abs/2506.23309) is accepted by [**MICCAI 2025**](https://conferences.miccai.org/2025/en/).
-- *2025.06*: &nbsp;🎉🎉 One paper [**EndoARSS**](https://www.arxiv.org/abs/2506.06830) is accepted by [**Advanced Intelligent Systems**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500288) (IF: 6.1).
+- *2025.07*: &nbsp;🎉🎉 One paper [**SurgCSS**](https://discovery.ucl.ac.uk/id/eprint/10212110/1/Hoque_Rethinking%20data%20imbalance%20in%20class%20incremental%20surgical%20instrument%20segmentation.pdf) is accepted by [**Medical Image Analysis**](https://www.sciencedirect.com/journal/medical-image-analysis).
+
 
 
 
